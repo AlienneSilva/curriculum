@@ -36,7 +36,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/html5.svg');
+    background-image: url('assets/img/icons/html5.svg');
     margin-right: .5rem;
 }
 
@@ -47,7 +47,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/css3.svg');
+    background-image: url('assets/img/icons/css3.svg');
     margin-right: .5rem;
 }
 
