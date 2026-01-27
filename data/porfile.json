@@ -1,0 +1,72 @@
+{
+    "name": "Alienne Silva",
+    "photo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/foto%20perfil.jpg",
+    "user": "Junior Developer",
+    "local": "Praia Grande/SP",
+    "phone": "(13) 99756-2017",
+    "mail": "aliennecarlos@gmail.com",
+    "social": "https://www.linkedin.com/in/alienne-silva",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "CSS3",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/css3.svg"
+            },
+            {
+                "name": "HTML5",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/html5.svg"
+            },
+            {
+                "name": "Git",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/git.svg"
+            },
+            {
+                "name": "GitHub",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/gitHub.svg"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/js.svg"
+            },
+            {
+                "name": "Linux",
+                "logo": "https://github.com/AlienneSilva/curriculum/blob/main/assets/img/icons/linux.svg"
+            }
+        ],
+        "softSkills": [
+            "Facilidades com tarefas práticas",
+            "Facilidade de Comunicação",
+            "Trabalho em equipe",
+            "Organização",
+            "Comprometimento com resultados"
+        ]
+    },
+    "languages": [
+        "Português BR",
+        "Inglês (intermediário)"
+    ],
+    "portfolio": [
+        {
+            "name": "Criação de uma página de uma Loja de Bolos",
+            "url": "https://github.com/AlienneSilva/ProjetoLojaBolos",
+            "github": true
+        },
+        {
+            "name": "Criação de uma página de Cadastro de Vendas",
+            "url": "https://github.com/AlienneSilva/CadastroVendas",
+            "github": true
+        }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Técnica de Informática – JRB&B Corretora de Seguros e Representações LTDA",
+            "period": "2021 - até o momento",
+            "description": "Suporte técnico aos usuários (presencial e remoto), Padronização e preparação de equipamentos novos, Manutenção e infraestrutura de redes, Configuração de impressoras, e-mails corporativos e Windows Server 2012 e Diagnóstico e manutenção de computadores."
+        },
+        {
+            "name": "Suporte Técnico – Netion Telecomunicações",
+            "period": "2018 - 2020",
+            "description": "Atendimento técnico aos clientes por telefone, Configuração de modens e antenas de rádio e Registro de chamados no sistema MKSoluções."
+        }
+    ]
+}
