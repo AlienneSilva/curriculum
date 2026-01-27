@@ -15,7 +15,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/header.svg');
+    background-image: url('assets/img/icons/header.svg');
 }
 
 .header .photo {
@@ -50,19 +50,19 @@
     margin-right: .5rem;
 }
 .information .user::before{
-    background-image: url('/assets/img/icons/User_02.svg');
+    background-image: url('assets/img/icons/User_02.svg');
 }
 .information .mail::before{
-    background-image: url('/assets/img/icons/Mail.svg');
+    background-image: url('assets/img/icons/Mail.svg');
 }
 .information .social::before{
-    background-image: url('/assets/img/icons/social.svg');
+    background-image: url('assets/img/icons/social.svg');
 }
 .information .phone::before{
-     background-image: url('/assets/img/icons/whats.svg');
+     background-image: url('assets/img/icons/whats.svg');
 }
 .information .local::before{
-    background-image: url('/assets/img/icons/Map_Pin.svg');
+    background-image: url('assets/img/icons/Map_Pin.svg');
 }
 .information a{
     color: #fff;
