@@ -94,6 +94,37 @@
     margin-right: .5rem;
 }
 
+.skills .skillsGi {
+    content: '';
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../img/icons/gemini.svg');
+    margin-right: .5rem;
+}
+.skills .skillsCP {
+    content: '';
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../img/icons/chatgp.svg');
+    margin-right: .5rem;
+}
+.skills .skillsFB {
+    content: '';
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../img/icons/firebase.svg');
+    margin-right: .5rem;
+}
+
 @media only screen and (min-width: 768px) {
     .skills {
         display: grid;
